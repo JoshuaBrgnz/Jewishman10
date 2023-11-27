@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lobster', sans-serif;
+
+}
+
+h2 {
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Bebas Neue', sans-serif;
+}
+#intro {
+    background-color: #EEF5FF;
+}
+
+.cloud {
+    width: 155px;
+    height: 100px;
+}
+
+.clouds-right {
+    padding-left: 20%;  
+}
+
+.clouds-left {
+    padding-left: 80%;
+    padding-top: 20px;
+}
+
+.mountains {
+    width: 100%;
+    height: 350px;
+    margin-bottom: 50px;
+    padding-top: 3rem;
+}
+
+
+.middle-container {
+    width: 100%;
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.profile-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: #7C93C3 solid 10px;
+    border-radius: 1000px;
+
+}
